@@ -1,8 +1,8 @@
 {
-  "name": "vite-react-chakra-starter",
+  "name": "cloudfare-social-media-frontend",
   "version": "0.1.0",
   "private": true,
-  "author": "sozonome",
+  "author": "kingstarfly",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
